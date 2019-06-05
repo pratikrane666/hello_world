@@ -1,2 +1,3 @@
 # hello_world
 new to repository
+I am a beginner at programming...
